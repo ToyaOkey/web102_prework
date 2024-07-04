@@ -23,8 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://imgur.com/a/4TH8o7I' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href = 'https://imgur.com/a/4TH8o7I' target =  '_blank'></a>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur 
 [Imgur Link](https://imgur.com/a/4TH8o7I) for macOS
