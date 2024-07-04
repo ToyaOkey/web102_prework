@@ -23,11 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/4TH8o7I' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<a href = 'https://imgur.com/a/4TH8o7I' target =  '_blank'>Video Walkthrough</a>
+<img src='https://imgur.com/xFb63Hg' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href = 'https://imgur.com/xFb63Hg' target =  '_blank'>Video Walkthrough</a>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur 
-[Imgur Link](https://imgur.com/a/4TH8o7I) for macOS
+[Imgur Link](https://imgur.com/xFb63Hg)
 <!-- Recommended tools:
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
